@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.d("MainActivity.java","[branchA] 수정");
         Log.d("MainActivity.java","[branchB] 수정");
+        Log.d("MainActivity.java","[branchC] 수정");
+
     }   // end of onCreate
 }
